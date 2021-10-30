@@ -5,4 +5,4 @@
 
 [Click here](https://Mrtrieu69.github.io)
 
-[One Piece Band](https://Mrtrieu69.github.io/OnePice)
+[One Piece Band](https://Mrtrieu69.github.io/OnePiece)
