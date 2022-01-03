@@ -10,3 +10,6 @@
 [Travel](https://mrtrieu69.github.io/Travel/)
 
 [Music app](https://mrtrieu69.github.io/Music-app/)
+
+
+[Snake game](https://mrtrieu69.github.io/Snake-game/)
