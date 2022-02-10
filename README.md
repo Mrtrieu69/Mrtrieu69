@@ -12,3 +12,5 @@
 [Snake game](https://mrtrieu69.github.io/Snake-game/)
 
 [Todo List](https://mrtrieu69.github.io/Todo-List/)
+
+[Flappy bird](https://mrtrieu69.github.io/Flappy-bird/)
