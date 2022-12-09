@@ -23,5 +23,5 @@
 
 [Zingmp3](https://zingmp3-music.vercel.app/) - reactjs
 
-[Todo list advanced](https://todolist-uptrader.vercel.app/) - reacjs
+[Todo list advanced](https://spa-todolist-uptrader.vercel.app/) - reacjs
 
