@@ -17,4 +17,65 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+---
+
+### :man_technologist: About Me :
+I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
+- :globe_with_meridians: I love programming and passionate about new technologies.
+
+- :mag_right: I looking for a group of like-minded programmers.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :badminton: I have a special love for badminton.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJs" alt="ReactJs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrtrieu69)](https://git.io/streak-stats)
+
+---
+
+### :desktop_computer: My Projects :
+![alt text](https://aerospaceexport.com/wp-content/uploads/2019/12/project-management-I.jpg)
+- [Travel](https://mrtrieu69.github.io/Travel/)
+
+- [Music app](https://mrtrieu69.github.io/Music-app/)
+
+- [Snake game](https://mrtrieu69.github.io/Snake-game/)
+
+- [Flappy bird](https://mrtrieu69.github.io/Flappy-bird/)
+
+- [Relax and foccus](https://mrtrieu69.github.io/Relax-and-focus/)
+
+- [Cryptoverse](https://crypto-and-news.netlify.app/) - reactjs
+
+- [Travel advisor](https://frosty-thompson-7ac6d5.netlify.app) - reactjs
+
+- [Holiday](https://holidayreactapp.netlify.app) - reactjs
+
+- [Zingmp3](https://zingmp3-music.vercel.app/) - reactjs
+
+- [Todo list advanced](https://spa-todolist-uptrader.vercel.app/) - reacjs
