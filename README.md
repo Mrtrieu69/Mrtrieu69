@@ -78,4 +78,4 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - [Zingmp3](https://zingmp3-music.vercel.app/) - reactjs
 
-- [Todo list advanced](https://spa-todolist-uptrader.vercel.app/) - reacjs
+- [Todolist advanced](https://spa-todolist-uptrader.vercel.app/) - reacjs
