@@ -58,24 +58,16 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ---
 
-### :desktop_computer: My Projects :
-![alt text](https://aerospaceexport.com/wp-content/uploads/2019/12/project-management-I.jpg)
-- [Travel](https://mrtrieu69.github.io/Travel/)
+### :desktop_computer: My Projects for sharing:
 
-- [Music app](https://mrtrieu69.github.io/Music-app/)
+- Flappy bird (Custom): https://mrtrieu69.github.io/Flappy-bird/
 
-- [Snake game](https://mrtrieu69.github.io/Snake-game/)
+- Relax and foccus: https://mrtrieu69.github.io/Relax-and-focus/
 
-- [Flappy bird](https://mrtrieu69.github.io/Flappy-bird/)
+- Follow crypto: https://crypto-and-news.netlify.app/
 
-- [Relax and foccus](https://mrtrieu69.github.io/Relax-and-focus/)
+- Holiday: https://holidayreactapp.netlify.app/
 
-- [Cryptoverse](https://crypto-and-news.netlify.app/) - reactjs
+- Music app: https://zingmp3-music.vercel.app/
 
-- [Travel advisor](https://frosty-thompson-7ac6d5.netlify.app) - reactjs
-
-- [Holiday](https://holidayreactapp.netlify.app) - reactjs
-
-- [Zingmp3](https://zingmp3-music.vercel.app/) - reactjs
-
-- [Todolist advanced](https://spa-todolist-uptrader.vercel.app/) - reacjs
+- Todolist advanced: https://spa-todolist-uptrader.vercel.app/
