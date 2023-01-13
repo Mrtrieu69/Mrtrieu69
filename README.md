@@ -59,6 +59,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :desktop_computer: My Projects for sharing:
+- Music app: https://zingmp3-music.vercel.app/
 
 - Flappy bird (Custom): https://mrtrieu69.github.io/Flappy-bird/
 
@@ -67,7 +68,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Follow crypto: https://crypto-and-news.netlify.app/
 
 - Holiday: https://holidayreactapp.netlify.app/
-
-- Music app: https://zingmp3-music.vercel.app/
 
 - Todolist advanced: https://spa-todolist-uptrader.vercel.app/
