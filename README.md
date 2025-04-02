@@ -75,7 +75,3 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - Holiday: https://holidayreactapp.netlify.app/
 
 - Todolist advanced: https://spa-todolist-uptrader.vercel.app/
-
-- Boxing app: https://www.grusha.click/
-
-- Landing pages: https://mrtrieu69.github.io/Travel/, https://mrtrieu69.github.io/test-landing, https://mrtrieu69.github.io/Projects-2023/project-1/, https://mrtrieu69.github.io/Projects-2023/project-2/
